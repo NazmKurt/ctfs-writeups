@@ -4,11 +4,11 @@ A collection of my personal CTF write-ups, mostly covering machines solved on [T
 
 ## Contents
 
-| Room               | Platform  | Difficulty | Topic                                                                                                                 |
-| ------------------ | --------- | ---------- | --------------------------------------------------------------------------------------------------------------------- |
-| Brooklyn Nine Nine | TryHackMe | Easy       | Anonymous FTP → SSH Brute Force → Sudo Privilege Escalation                                                           |
-| Debug Linux        | TryHackMe | Medium     | PHP Object Injection → Arbitrary File Write → Remote Code Execution → Credential Cracking → MOTD Privilege Escalation |
-| Intermediate Nmap  | TryHackMe | Easy       | Nmap Enumeration → Plaintext Credential Disclosure → SSH Initial Access → Flag Discovery                              |
+| Room               | Platform  | Difficulty   | Topic                                                                                                                 |
+| ------------------ | --------- | ------------ | --------------------------------------------------------------------------------------------------------------------- |
+| Brooklyn Nine Nine | TryHackMe | Easy         | Anonymous FTP → SSH Brute Force → Sudo Privilege Escalation                                                           |
+| Debug Linux        | TryHackMe | Medium       | PHP Object Injection → Arbitrary File Write → Remote Code Execution → Credential Cracking → MOTD Privilege Escalation |
+| Intermediate Nmap  | TryHackMe | Intermediate | Nmap Enumeration → Plaintext Credential Disclosure → SSH Initial Access → Flag Discovery                              |
 
 
  🛠️ Interests: penetration testing, Python scripting, CTFs
