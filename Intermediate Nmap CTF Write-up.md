@@ -1,4 +1,4 @@
-# *ntermediate Nmap — TryHackMe
+# Intermediate Nmap — TryHackMe
 
 **Platform:** TryHackMe **Difficulty:** Intermediate **Category:** Network Scanning & Enumeration **Type:** Quick CTF
 
