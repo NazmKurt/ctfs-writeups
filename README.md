@@ -1,6 +1,6 @@
-# CTF Writeups
+# CTF Write-ups
 
-A collection of my personal CTF writeups, mostly covering machines solved on [TryHackMe](https://tryhackme.com), with step-by-step walkthroughs.
+A collection of my personal CTF write-ups, mostly covering machines solved on [TryHackMe](https://tryhackme.com), with step-by-step walkthroughs.
 
 ## Contents
 
@@ -8,6 +8,7 @@ A collection of my personal CTF writeups, mostly covering machines solved on [Tr
 | ------------------ | --------- | ---------- | --------------------------------------------------------------------------------------------------------------------- |
 | Brooklyn Nine Nine | TryHackMe | Easy       | Anonymous FTP → SSH Brute Force → Sudo Privilege Escalation                                                           |
 | Debug Linux        | TryHackMe | Medium     | PHP Object Injection → Arbitrary File Write → Remote Code Execution → Credential Cracking → MOTD Privilege Escalation |
+| Intermediate Nmap  | TryHackMe | Easy       | Nmap Enumeration → Plaintext Credential Disclosure → SSH Initial Access → Flag Discovery                              |
 
 
  🛠️ Interests: penetration testing, Python scripting, CTFs
