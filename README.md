@@ -4,15 +4,14 @@ A collection of my personal CTF writeups, mostly covering machines solved on [Tr
 
 ## Contents
 
-| Room | Platform | Difficulty | Topic |
-|------|----------|------------|-------|
-| [Brooklyn Nine Nine](./brooklyn-nine-nine) | TryHackMe | Easy | Anonymous FTP → SSH Brute Force → Sudo Privilege Escalation |
+| Room               | Platform  | Difficulty | Topic                                                                                                                 |
+| ------------------ | --------- | ---------- | --------------------------------------------------------------------------------------------------------------------- |
+| Brooklyn Nine Nine | TryHackMe | Easy       | Anonymous FTP → SSH Brute Force → Sudo Privilege Escalation                                                           |
+| Debug Linux        | TryHackMe | Medium     | PHP Object Injection → Arbitrary File Write → Remote Code Execution → Credential Cracking → MOTD Privilege Escalation |
 
-## About
 
-Junior cybersecurity professional and Python developer transitioning into penetration testing, currently preparing for the eJPT certification. This repo is a record of the labs I've worked through and the techniques I've learned along the way.
-
-- GitHub: [NazmKurt](https://github.com/NazmKurt)
+ 🛠️ Interests: penetration testing, Python scripting, CTFs
+ 📫 GitHub: [NazmKurt](https://github.com/NazmKurt)
 
 ## License / Note
 
