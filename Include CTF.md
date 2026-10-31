@@ -1,5 +1,6 @@
 
 Platform: TryHackMe
+
 **Target:** `10.114.138.85`  
 **Difficulty:** Medium  
 
@@ -36,7 +37,6 @@ Key services:
     
 
 > ![[nmap.png]]
-
 ## 2. Logging in to the Review App
 
 The sign-in page on port 4000 displayed the credentials `guest/guest`. After logging in, I opened **My Profile**, which led to `/friend/1`.
